@@ -1,0 +1,9 @@
+Em uma cidade foi registrado as seguintes temperaturas, +48, -47, -45, +46, +49.
+Qual a soma das temperaturas?
+
+* 35º;
+* -45º;
+* 51º;
+* -51º;
+
+Resposta correta: 51º;
