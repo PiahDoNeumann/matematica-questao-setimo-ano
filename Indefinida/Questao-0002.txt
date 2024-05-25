@@ -1,0 +1,11 @@
+<Imagem>
+
+Na ordem da figura, quantas peças de cada tipo havia?
+* 3 890; 583; 750;
+* 1426; 4302; 6050;
+* 6421; 3402; 5070;
+* 5735; 4374; 4700;
+
+Resposta correta: 1426; 4302; 6050; 
+
+BNCC EF06MA02;
