@@ -1,0 +1,10 @@
+Tiana precisa fazer 1000 brigadeiros para uma grande festa. Já estão prontas 22 assadeiras com 42 brigadeiros em cada uma. Ela ainda deverá fazer:
+
+
+* 76 brigadeiros.
+* 84 brigadeiros.
+* 102 brigadeiros.
+* 116 brigadeiros. 
+
+Resposta correta: 76 brigadeiros.
+(EF06MA03) 
