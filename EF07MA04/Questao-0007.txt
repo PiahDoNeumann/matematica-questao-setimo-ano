@@ -1,0 +1,9 @@
+Na Conta bancária de José, o saldo era negativo de R$120,00 e ele fez um depósito de
+R$200,00 naquele dia. Qual o novo saldo?
+
+* R$ 180,00;
+* R$ 320,00;
+* R$ 200,00;
+* R$ 80,00;
+
+Resposta Correta: R$ 180,00;
