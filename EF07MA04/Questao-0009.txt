@@ -1,0 +1,9 @@
+Na conta bancária de Sílvio era negativo de R$55,00 e ele efetuou uma retirada
+de mais R$60,00. Qual o novo saldo?
+
+* R$ 115,00;
+* R$ -115,00;
+* R$ 5,00;
+* R$ 60,00;
+
+Resposta correta: -115,00;
