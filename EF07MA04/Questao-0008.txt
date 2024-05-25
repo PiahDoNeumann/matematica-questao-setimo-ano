@@ -1,0 +1,9 @@
+Na conta bancária de Ana, o saldo era positivo de R$95,00 e ela realizou uma retirada de
+R$100,00. Qual o novo saldo naquele dia?
+
+* R$ 195,00;
+* R$ -5,00;
+* R$ 95,00;
+* R$ 100,00;
+
+Resposta correta: R$ -5,00;
