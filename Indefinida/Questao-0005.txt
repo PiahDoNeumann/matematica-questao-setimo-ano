@@ -1,0 +1,10 @@
+O número 60 é ...
+
+* múltiplo de 8 e divisor de 120.
+* múltiplo de 4 e divisor de 120.
+* múltiplo de 5 e divisor de 100.
+* múltiplo de 9 e divisor de 180.
+
+Resposta correta: múltiplo de 4 e divisor de 120.
+
+(EF06MA05)
