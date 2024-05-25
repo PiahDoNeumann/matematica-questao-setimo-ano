@@ -1,0 +1,8 @@
+Na conta bancária de Sueli estava zerada e ela fez um depósito de R$150,00 e de R$ 55,00. Qual o novo saldo?
+
+* R$ -205,00;
+* R$ 205,00;
+* R$ 95,00;
+* R$ 205,00;
+
+Resposta correta: 205,00;
