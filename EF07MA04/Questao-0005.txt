@@ -1,0 +1,8 @@
+Em jogo de cartas, Celso ganhou 210 pontos na primeira partida e 320 na segunda; perdeu 430 na terceira, ganhou 50 na quarta e juntou-se todos os pontos ao final do jogo.
+
+* 240 pontos;
+* 150 pontos;
+* 1010 pontos;
+* 100 pontos;
+
+Resposta correta: 150 pontos;
