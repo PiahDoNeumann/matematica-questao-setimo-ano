@@ -1,0 +1,10 @@
+Um mergulhador encontra-se a ‒18 metros de altitude em relação a nível do mar. 
+Se ele subir 9 metros, que altitude ele alcançará?
+
+* 27 metros;
+* -27 metros;
+* 9 metros;
+* -9 metros;
+
+Resposta correta: -9 metros;
+
