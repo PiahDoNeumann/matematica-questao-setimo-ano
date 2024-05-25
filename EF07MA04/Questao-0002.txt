@@ -1,0 +1,8 @@
+A temperatura em uma cidade pela manhã era 18°C. À noite, ela caiu para 5°C. Qual é a diferença, em graus, entre as temperaturas registradas nesses dois momentos?
+
+* 5º;
+* 23º;
+* 13º;
+* -23º;
+
+Resposta Correta: 13º;
