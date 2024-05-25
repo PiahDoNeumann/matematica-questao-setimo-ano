@@ -1,0 +1,10 @@
+Quantas faces tem um prisma de base triangular?
+ 
+* 3
+* 4 
+* 5
+* 6
+
+Resposta correta: 
+
+(EF06MA17)
