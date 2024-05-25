@@ -1,0 +1,9 @@
+Em uma cidade do Alasca, o termômetro marcou –15° pela manhã.
+Se a temperatura descer mais 13°, quanto o termômetro irá marcar?
+
+* 27º;
+* -27º;
+* 2º;
+* -2º;
+
+Resposta Correta: -27º; 
