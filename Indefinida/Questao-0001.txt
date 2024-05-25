@@ -1,0 +1,12 @@
+Bela está escrevendo uma sequência de sete números: Os próximos números a serem escritos são:
+
+4,6,9,13,18,..,..
+
+* 20 e 31
+* 22 e 33
+* 24 e 30
+* 24 e 31
+
+Resposta Correta: 24 e 31
+
+(EF06MA01) 
