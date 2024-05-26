@@ -1,0 +1,10 @@
+Calcule, pela decomposição em fatores primos, o MDC dos números 40, 70 e 90.
+
+
+* 2^3.5; 2.5.7; 2.3^2.5;
+* 2^2.5; 2.5.7; 2.3^2.5;
+* 2^3.5; 2^2.5.7; 2.3^3.5;
+* 2^3.5; 2.5.7; 2.3^2.5;
+
+Resposta correta: 2^3.5; 2.5.7; 2.3^2.5;
+ 
