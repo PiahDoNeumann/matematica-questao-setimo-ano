@@ -1,0 +1,9 @@
+Calcule, pela decomposição em fatores primos, o MDC dos números 70.
+
+
+* 2.5.7; 
+* 2.5^2.7; 
+* 2^2.5.7; 
+* 2^3.5; 
+
+Resposta correta: 2.5.7;
