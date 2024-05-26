@@ -1,0 +1,9 @@
+Calcule, pela decomposição em fatores primos, o MDC dos números 40.
+
+
+* 2^3.5;
+* 2^2.5;
+* 2^3.5; 
+* 2.3.5; 
+
+Resposta correta: 2^3.5;
