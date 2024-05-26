@@ -1,0 +1,13 @@
+Na Romênia está -32 °C. 
+Na Bulgária está -22 °C.
+Na República Tcheca está -30 °C.
+Na Eslováquia está -23 °C.
+Qual país a temperatura esta mais alta?
+
+* Romênia.
+* Bulgária.
+* República Tcheca.
+* Eslováquia.
+
+Resposta correta: Bulgária;
+(-32 < -30 < -23 < -22)
