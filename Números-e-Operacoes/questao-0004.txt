@@ -1,0 +1,9 @@
+Calcule, pela decomposição em fatores primos, o MDC dos números 90.
+
+
+* 2.3^2.5;
+* 2^2.3.5;
+* 2.3.11;
+* 2.3^3.5;
+
+Resposta correta: 2.3^2.5;
