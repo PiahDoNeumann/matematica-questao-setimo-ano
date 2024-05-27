@@ -1,0 +1,11 @@
++3, -6, -2, 0, +10, -1, -8, +5, +7, -12, +6, -9
+Quais números pertencem ao conjunto dos inteiros?
+
+* Positivos;
+* Negativos;
+* Todos;
+* Alguns;
+
+Resposta Correta: Todos
+
+EF07MA03, EF07MA04, EF07MA14
