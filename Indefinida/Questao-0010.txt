@@ -1,0 +1,11 @@
++3, -6, -2, 0, +10, -1, -8, +5, +7, -12, +6, -9
+Quais números pertencem ao conjunto dos inteiros negativos?
+
+* 0, -6, -2, -1,-8, -12, -9;
+* -6, -2, -1,-8, -12, -9;
+* Todos;
+* Alguns;
+
+Resposta Correta: -6, -2, -1,-8, -12, -9;
+
+EF07MA03, EF07MA04, EF07MA14
