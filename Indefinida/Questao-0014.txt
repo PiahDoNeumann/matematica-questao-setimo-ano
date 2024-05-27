@@ -1,0 +1,10 @@
+Ao efetuar a subtração 3 - 7, pode-se sempre obter nenhuma resposta?
+
+* Não;
+* Talvez;
+* Sim, no conjunto dos naturais;
+* Sempre será possivel essa resolução;
+
+Resposta correta: Sim, no conjunto dos naturais;
+
+EF07MA03, EF07MA04, EF07MA14;
