@@ -1,0 +1,10 @@
+-4, +3, -6, -2, 0, +10, -1, -8, +4, +5, +7, -12, +6, -9
+Que números são estes?
+
+* Metodo capivara de cálculo;
+* Calculo aleatório;
+* Conjunto dos números inteiros;
+* Distribuição de Einstein;
+
+Resposta Correta: Conjunto dos números inteiros;
+
